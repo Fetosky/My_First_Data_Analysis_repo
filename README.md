@@ -5,7 +5,7 @@
 To find out the total number of items sold on each product;
 to ascertain how discount affected sales;
 to find out if profit is proportional to sales;
-to know the best selling products in the 5 countries.
+to know the best best products in the 5 countries.
 
 
 
@@ -25,13 +25,13 @@ Pivot chart
 # Findings:
 I found out that Paseo is the highest selling product in all the countries;
 Montana did so bad in Mexico;
-Discount boosted sales in all the countries;
-sales is proportional to profit.
+Discount boosted sales in all the countries and
+sales generated from the products is proportional to profit made.
 
 
 -----
 
 # Recommendations
 Since Discount didn't reduce profit, discount should be continued in all the products.
-More production of Paseo should encouraged'
+More production of Paseo should encouraged, and
 more discount should be placed on Montana in Mexico.
