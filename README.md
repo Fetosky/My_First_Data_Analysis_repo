@@ -2,7 +2,7 @@
 
 ------
 # Project Objective: Problem Statement
-To find out total number of items sold on each product
+To find out the total number of items sold on each product
 To ascertain how discount affected sales
 To find out if profit is proportional to sales
 To know the best selling products in the 5 countries.
